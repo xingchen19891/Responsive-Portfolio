@@ -215,3 +215,32 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+@media screen and (max-width: 980px){
+  
+    /* It should move all the nav a links to the right of the view port nav a {}*/
+    
+  
+
+}
+@media screen and (max-width: 768px){
+ 
+   /* It should move all the nav a links to the right of the view port nav a {}*/
+    /* It should make .col-sm-9 wrap around the image*/
+    
+  
+
+}
+@media screen and (max-width: 640px){
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+ 
+  /* It should move all the nav a links to the right of the view port nav a {}*/
+   /* It should make .col-sm-9 wrap around the image*/
+    /* It should make .work centered*/
+ 
+
+}
